@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FormsAppChallenge</string>
+    <string name="hint_firstname">Firstname</string>
+    <string name="hint_lastname">Lastname</string>
+    <string name="hint_email">Email</string>
+    <string name="text_newsletter_subscribe">Subscribe to newsletter</string>
+    <string name="hint_phone_number">Phone number</string>
+    <string name="text_preview_message">Preview Message</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="send_email">Send email</string>
+</resources>
